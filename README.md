@@ -1,5 +1,6 @@
 # University Rankings
 -Self guided project from CS220
+
 -Objective: Analyze global university rankings
 
 -Queried a database using SQL to extract and analyze global university rankings 
